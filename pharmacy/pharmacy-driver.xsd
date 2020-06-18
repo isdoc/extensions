@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:import namespace="http://isdoc.cz/namespace/2013"
+             schemaLocation="../isdoc/isdoc-invoice-6.0.1.xsd"/>
+  
+  <xs:import namespace="http://isdoc.cz/namespace/2020/extensions/pharmacy"
+             schemaLocation="pharmacy.xsd"/>
+  
+</xs:schema>
